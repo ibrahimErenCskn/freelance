@@ -45,7 +45,7 @@ const TestimonialsSection = () => {
             viewport={{ once: true }}
             transition={{ duration: 0.6, delay: 0.4 }}
           >
-            Don't just take my word for it. Here's what my clients have to say about working with me.
+            Don&apos;t just take my word for it. Here&apos;s what my clients have to say about working with me.
           </motion.p>
         </motion.div>
         
@@ -89,7 +89,7 @@ const TestimonialsSection = () => {
                           animate={{ opacity: 1, y: 0 }}
                           transition={{ duration: 0.5, delay: 0.3 }}
                         >
-                          "{testimonial.content}"
+                          &quot;{testimonial.content}&quot;
                         </motion.blockquote>
                         <motion.div
                           initial={{ opacity: 0 }}
