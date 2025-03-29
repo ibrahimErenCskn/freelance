@@ -1,7 +1,6 @@
 'use client';
 
 import { useState } from 'react';
-import Image from 'next/image';
 import { projects, projectCategories, projectsData } from '../constants';
 import { motion, AnimatePresence } from 'framer-motion';
 
