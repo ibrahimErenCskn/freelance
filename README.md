@@ -11,8 +11,6 @@ A modern, animated portfolio website built with Next.js, React, Tailwind CSS, an
 
 **Live Demo:** [https://freelance-theta-henna.vercel.app/](https://freelance-theta-henna.vercel.app/)
 
-![Portfolio Website Preview](public/preview.png)
-
 ### 🚀 Features
 
 - **Responsive Design**: Fully responsive design that looks great on all devices
@@ -126,8 +124,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Next.js, React, Tailwind CSS ve Framer Motion ile oluşturulmuş modern, animasyonlu bir portföy websitesi.
 
 **Canlı Demo:** [https://freelance-theta-henna.vercel.app/](https://freelance-theta-henna.vercel.app/)
-
-![Portföy Websitesi Önizleme](public/preview.png)
 
 ### 🚀 Özellikler
 
